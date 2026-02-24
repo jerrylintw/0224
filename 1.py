@@ -15,3 +15,4 @@ for j in range(N):
     query_name = input().strip()
     # 題目保證名稱一定存在，直接輸出價格 
     print(products[query_name])
+    #52233

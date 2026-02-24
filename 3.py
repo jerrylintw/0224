@@ -17,4 +17,5 @@ def report_sequence():
     except EOFError:
         pass
 
-report_sequence()
+report_sequence() 
+#4532

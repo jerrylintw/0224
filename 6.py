@@ -74,3 +74,4 @@ def solve_score_system():
 
 if __name__ == "__main__":
     solve_score_system()
+    #2455

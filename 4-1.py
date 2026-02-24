@@ -12,3 +12,4 @@ def sharePayment(people, amount):
     print(f"Total: NT${total}, Per person: NT${per_person}")
 
 sharePayment(people, amount)  # 呼叫函數
+#6622
